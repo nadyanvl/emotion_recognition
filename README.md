@@ -1,5 +1,5 @@
 # Emotion Recognition
-emotion recognition using CNN
+emotion recognition using CNN and OpenCV
 
 ## Dataset Link:
 
